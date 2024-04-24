@@ -132,7 +132,11 @@ footer img {
 }
 
 /* publications styling */
+.year {
+	margin-top: 1rem;
+}
 .publication {
+		margin-top: 0.8rem;
 		margin-left: 1rem;
 }
 .authors {
