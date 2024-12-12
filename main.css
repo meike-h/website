@@ -169,6 +169,9 @@ footer img {
 .activity {
 	margin-left: 1rem;
 }
+.activity-caption {
+	font-weight: bold;
+}
 
 /* fold styling */
 .fold {
