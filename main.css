@@ -125,7 +125,7 @@ nav li {
 
 nav a {
 	display: block;
-	padding: 0.5em 1.5em;
+	padding: 0.5em 1em;
 	transition: background-color 0.5s ease;
 }
 
@@ -171,6 +171,26 @@ footer img {
 }
 .activity-caption {
 	font-weight: bold;
+}
+
+/* teaching styling*/
+.semester {
+	margin-top: 1rem;
+	font-weight: bold;
+}
+.course {
+	margin-top: 0.8rem;
+	margin-left: 1rem;
+	color: var(--primary-colour);
+}
+.coursetype {
+	margin-left: 1rem;
+}
+.lecture {
+	margin-left: 1rem;
+}
+.exercise {
+	margin-left: 1rem;
 }
 
 /* fold styling */
